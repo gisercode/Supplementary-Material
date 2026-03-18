@@ -1,4 +1,4 @@
-# Supplemental Material for "A Survey on Tensor-Based Spatiotemporal Data Imputation: Knowledge Engineering Perspectives and Modeling Strategies"
+# supplementary Material for "A Survey on Tensor-Based Spatiotemporal Data Imputation: Knowledge Engineering Perspectives and Modeling Strategies"
 
 This document summarizes the supplemental material provided in "Supplemental Material.pdf." This repository contains the supplemental material for the survey paper titled "A Survey on Tensor-Based Spatiotemporal Data Imputation: Knowledge Engineering Perspectives and Modeling Strategies."
 
